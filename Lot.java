@@ -2,8 +2,8 @@
  * A class to model an item (or set of items) in an
  * auction: a lot.
  * 
- * @author David J. Barnes and Michael Kölling.
- * @version 2016.02.29
+ * @author Mohamed Hamed
+ * @version 2019.02.15
  */
 public class Lot
 {
